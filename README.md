@@ -1,1 +1,0 @@
-# Proiect-APP-Weekers-Raytracer
